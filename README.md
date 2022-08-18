@@ -208,6 +208,8 @@ Open the terminal and install required software packages.
 
 **Note** Live Ubuntu images [may require modification](https://github.com/drduh/YubiKey-Guide/issues/116) to `/etc/apt/sources.list`
 
+`sudo add-apt-get-repository universe`
+
 ```console
 $ sudo apt update
 
