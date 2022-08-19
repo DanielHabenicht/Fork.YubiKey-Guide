@@ -86,6 +86,9 @@ If you have a comment or suggestion, please open an [Issue](https://github.com/d
 - [Alternatives](#alternatives)
 - [Links](#links)
 
+https://geekyshacklebolt.wordpress.com/2019/03/06/how-to-encrypt-usb-drives-with-luks/
+https://www.linuxuprising.com/2018/10/how-to-encrypt-usb-drive-with-veracrypt.html
+
 
 # Purchase
 
